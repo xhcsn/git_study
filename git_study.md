@@ -81,3 +81,8 @@ git add .
 git commit -m "first commit"
 
 ```
+忽略文件，重写gitignore文件
+
+#### 使用Github
+github是远程仓库，我们平时工作在本地仓库，可以配置免密码登录
+
